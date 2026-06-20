@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^3.1.1",
     "react": "19.0.0",
     "react-native": "0.79.1",
+    "react-native-hce": "^0.3.0",
     "react-native-nfc-manager": "^3.16.1"
   },
   "devDependencies": {
